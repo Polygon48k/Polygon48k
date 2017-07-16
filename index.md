@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Polygon48k/Polygon48k.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="utf-8">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-control: max-age=1024" content="public">
+      <title>Polygon Design</title>
+      <link rel="shortcut icon" href="icon.png">
+      <link rel="stylesheet" href="style.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Polygon48k/Polygon48k.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="box">
+    <body>
+    <a href="10.html">
+    <img src="make.png" onmouseover="this.src='10.png'" onmouseout="this.src='make.png'" style="margin: 0% 2%"></a>
+    
+    <a href="20.html">
+    <img src="some.png" onmouseover="this.src='20.png'" onmouseout="this.src='some.png'" style="margin: 0% 2%"></a>
+    
+    <a href="30.html">
+    <img src="special.png" onmouseover="this.src='30.png'" onmouseout="this.src='special.png'" style="margin: 0% 2%"></a>
+    </body>
+</div>
+    
+<footer>
+    <a href="index.html">
+    <img src="logo.png" style="width: 10vw;"></a>
+    <br>Email: hi@polygon.pw
+    <br>Phone: (+44) 7895 041 999
+    <br>
+    <br>153 High Street
+    <br>Fort William
+    <br>PH33 6EA<br>
+</footer>
+</html>
